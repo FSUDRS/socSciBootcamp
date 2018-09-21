@@ -27,4 +27,8 @@ Examples:
 
 ### WorkRef
 
-This contains a list of pointers to the authors works, held in the `bibliography.csv` file. The allowable data is one or more URIs, with the prefix `BIB:` coming before each URI. (e.g. `BIB:blazing` as a substitute for `bibliography.csv#blazing`)  
+This contains a list of pointers to the authors works, held in the `bibliography.csv` file. The allowable data is one or more URIs, with the prefix `BIB:` coming before each URI. (e.g. `BIB:blazing` as a substitute for `bibliography.csv#blazing`) 
+
+## Bibliography 
+
+Data dictionary for `bibliography.csv` 
