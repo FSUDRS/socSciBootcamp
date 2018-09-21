@@ -32,3 +32,5 @@ This contains a list of pointers to the authors works, held in the `bibliography
 ## Bibliography 
 
 Data dictionary for `bibliography.csv` 
+
+I'm editing through the browser!
